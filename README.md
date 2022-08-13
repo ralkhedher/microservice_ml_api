@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![ralkhedher](https://app.circleci.com/pipelines/github/ralkhedher/ML_API.svg?style=svg)](https://app.circleci.com/pipelines/github/ralkhedher/ML_API)
 
 ## Project Overview
 
