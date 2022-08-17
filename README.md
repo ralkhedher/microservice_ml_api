@@ -1,4 +1,4 @@
-[![ralkhedher](https://circleci.com/gh/ralkhedher/ML_API.svg?style=svg)](https://app.circleci.com/pipelines/github/ralkhedher/ML_API)
+[![ralkhedher](https://circleci.com/gh/ralkhedher/microservice_ml_api.svg?style=svg)](https://app.circleci.com/pipelines/github/ralkhedher/microservice_ml_api)
 
 # Introduction
 ## Machine Learning Microservice API
